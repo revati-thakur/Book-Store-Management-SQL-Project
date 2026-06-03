@@ -15,15 +15,15 @@ The project consists of three main tables:
 3)Orders
 
 # Key Analysis Performed
-# 1)Retrieve books by genre and publication year
-# 2)Analyze customer orders and purchasing behavior
-# 3)Calculate total revenue generated from book sales
-# 4)Identify top-selling and most frequently ordered books
-# 5)Find customers with multiple orders
-# 6)Analyze book sales by genre and author
-# 7)Determine highest-spending customers
-# 8)Monitor inventory and remaining stock after sales
-# 8)Generate business insights using SQL queries
+1)Retrieve books by genre and publication year
+2)Analyze customer orders and purchasing behavior
+3)Calculate total revenue generated from book sales
+4)Identify top-selling and most frequently ordered books
+5)Find customers with multiple orders
+6)Analyze book sales by genre and author
+7)Determine highest-spending customers
+8)Monitor inventory and remaining stock after sales
+9)Generate business insights using SQL queries
 
 # SQL Concepts Used
 
