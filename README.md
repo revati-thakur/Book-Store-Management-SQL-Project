@@ -41,4 +41,4 @@ MySQL
 SQL Workbench
 
 # Project Outcome
-The project demonstrates practical SQL skills for database management, business reporting, sales analysis, customer analytics, and inventory tracking.
+This project demonstrates practical SQL skills in database design, data analysis, sales reporting, customer analytics, and inventory management. It showcases the ability to work with relational databases and extract meaningful business insights using SQL queries.
